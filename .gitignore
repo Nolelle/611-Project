@@ -1,0 +1,74 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Conda
+*.conda
+.conda/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Data files (uncomment if needed)
+# *.csv
+# *.xlsx
+# *.parquet
+
+# Models and checkpoints
+*.h5
+*.pkl
+*.joblib
+*.ckpt
+*.pth
+
+# Temporary Word files
+~$*.doc*
+
+# Logs
+*.log
